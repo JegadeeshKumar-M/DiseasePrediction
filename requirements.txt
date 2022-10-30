@@ -5,3 +5,4 @@ numpy
 Jinja2
 pandas
 requests
+gunicorn
