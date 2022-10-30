@@ -6,7 +6,4 @@ Jinja2
 pandas
 requests
 gunicorn
-sys
-glob
-re
-werkzeug
+
