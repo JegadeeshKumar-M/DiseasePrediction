@@ -6,7 +6,6 @@ Jinja2
 pandas
 requests
 gunicorn
-__future__
 sys
 glob
 re
